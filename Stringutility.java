@@ -1,3 +1,3 @@
 updating in Master branch....
-This file has string realted function
-This is the first file
+
+updating in dev branch
